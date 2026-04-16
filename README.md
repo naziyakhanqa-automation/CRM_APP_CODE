@@ -58,3 +58,19 @@ This application is designed to help QA Engineers practice:
 ---
 
 ## 📂 Project Structure
+crm-app/
+│
+├── frontend/ # Angular UI
+│ ├── src/
+│ ├── angular.json
+│ └── package.json
+│
+├── backend/ # Python API
+│ ├── main.py
+│ ├── routes/
+│ ├── models/
+│ └── requirements.txt
+│
+├── screenshots/ # UI screenshots for documentation
+│
+└── README.md
